@@ -1,0 +1,23 @@
+{
+  "name": "kodilla-zadanie_12_4",
+  "version": "1.0.0",
+  "description": "examp zad124",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "test-kodilla"
+  },
+  "repository": {
+    "type": "git",
+    "url": "grunt"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Albert",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
